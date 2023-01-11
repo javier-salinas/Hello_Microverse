@@ -23,7 +23,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -34,8 +33,6 @@
 - LinkedIn: [Javier Salinas](https://www.linkedin.com/in/javier-salinas-/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
