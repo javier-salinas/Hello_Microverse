@@ -1,29 +1,44 @@
-# Hello_Microverse
-First Project at Microverse Program - Day 2
+<a name="readme-top"></a>
 
-#Description the project.
+# 📗 Table of Contents
 
-Set up a 'Hello Microverse' project it is a Project of the second Day at Microverse Program
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+- [👥 Authors](#authors)
+- [📝 License](#license)
 
-#Built With
+<!-- PROJECT DESCRIPTION -->
 
-HTML, CSS
-Github flow
-VSCode
-#Author
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
-👤 Javier Salinas
+**[Hello_Microverse]** is a simple html project
 
-🤝 Contributing Contributions, issues, and feature requests are welcome!
+## 🛠 Built With <a name="built-with"></a>
 
-Feel free to check the issues page.
+### Key Features <a name="key-features"></a>
 
-#Show your support
+- **[CSS_styles_file]**
+- **[working_gitignore_file]**
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
+<!-- AUTHORS -->
 
-This project is MIT licensed.
+## 👥 Authors <a name="authors"></a>
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+👤 **Author**
+
+- GitHub: [@Javier Salinas](https://github.com/javier-salinas)
+- Twitter: [@JavierSalinasC6](https://twitter.com/JavierSalinasC6)
+- LinkedIn: [Javier Salinas](https://www.linkedin.com/in/javier-salinas-/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
