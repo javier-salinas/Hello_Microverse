@@ -26,8 +26,7 @@
 
 ## 👤 Author <a name="authors"></a>
 
-Javier salinas
-
+Javier Salinas
 
 - GitHub: [@Javier Salinas](https://github.com/javier-salinas)
 - Twitter: [@JavierSalinasC6](https://twitter.com/JavierSalinasC6)
