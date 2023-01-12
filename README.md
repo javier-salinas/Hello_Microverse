@@ -5,10 +5,9 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-- [👥 Authors](#authors)
+- [👤 Author](#authors)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
@@ -24,9 +23,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
-👤 **Author**
+Javier Salinas
 
 - GitHub: [@Javier Salinas](https://github.com/javier-salinas)
 - Twitter: [@JavierSalinasC6](https://twitter.com/JavierSalinasC6)
